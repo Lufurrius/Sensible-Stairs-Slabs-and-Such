@@ -1,0 +1,54 @@
+{
+    "block_sounds": {
+        "chiseled_bookshelf": {
+            "events": {
+                "break": {
+                    "pitch": 1.0,
+                    "sound": "break.chiseled_bookshelf",
+                    "volume": 1.0
+                },
+                "default": "",
+                "hit": {
+                    "pitch": 1.0,
+                    "sound": "hit.chiseled_bookshelf",
+                    "volume": 1.0
+                },
+                "insert": {
+                    "pitch": 1.0,
+                    "sound": "insert.chiseled_bookshelf",
+                    "volume": 1.0
+                },
+                "insert_enchanted": {
+                    "pitch": 1.0,
+                    "sound": "insert_enchanted.chiseled_bookshelf",
+                    "volume": 1.0
+                },
+                "pickup": {
+                    "pitch": 1.0,
+                    "sound": "pickup.chiseled_bookshelf",
+                    "volume": 1.0
+                },
+                "pickup_enchanted": {
+                    "pitch": 1.0,
+                    "sound": "pickup_enchanted.chiseled_bookshelf",
+                    "volume": 1.0
+                },
+                "place": {
+                    "pitch": 1.0,
+                    "sound": "place.chiseled_bookshelf",
+                    "volume": 1.0
+                },
+                "button.click_off": {
+                    "pitch": 0.50,
+                    "sound": "random.wood_click"
+                },
+                "button.click_on": {
+                    "pitch": 0.60,
+                    "sound": "random.wood_click"
+                }
+            },
+            "pitch": 1.0,
+            "volume": 1.0
+        }
+    }
+}

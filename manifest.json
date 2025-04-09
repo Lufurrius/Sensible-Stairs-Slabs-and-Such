@@ -1,0 +1,29 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Luth's Sensible Slabs, Stairs, and More!",
+        "name": "Luth's Sensible Slabs, Stairs, and More!",
+        "uuid": "065f4113-5ee8-4cd5-9b09-0f7568379fa3",
+        "min_engine_version": [
+            1,
+            21,
+            50
+        ],
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "9e51c879-6f6e-4e6b-86e4-a98d8e415906",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

@@ -1,8 +1,9 @@
-The following directories, their subdirectories, and any files inside said directories or subdirectories are subject to
+The following directories, their subdirectories, and any files inside said directories or subdirectories, along with any file that are in the root, are subject to
 the license below.
 
-/resources/textures/
-/resources/sounds/
+textures/
+icons/
+icon.png
 
 All Rights Reserved
 
