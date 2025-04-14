@@ -1,13 +1,13 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Luth's Sensible Slabs, Stairs, and More!",
-        "name": "Luth's Sensible Slabs, Stairs, and More!",
+        "description": "pack.luth.sss.desc",
+        "name": "pack.luth.sss.name",
         "uuid": "065f4113-5ee8-4cd5-9b09-0f7568379fa3",
         "min_engine_version": [
             1,
             21,
-            50
+            0
         ],
         "version": [
             1,
