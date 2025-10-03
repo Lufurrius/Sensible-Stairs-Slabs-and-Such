@@ -2625,14 +2625,14 @@
             "textures": "textures/blocks/luth/chiseled/chiseled_polished_blackstone_top"
         },
         //        
-        // Item Sprites
-        //
-        "sporeblossom_sprite": {
-            "textures": "textures/items/luth/block/spore_blossom"
-        },
-        //        
         // Other
         //
+        "anvil_side": {
+            "textures": ["textures/blocks/luth/anvil_side_alt90","textures/blocks/luth/anvil_side","textures/blocks/luth/anvil_side_alt270","textures/blocks/luth/anvil_side"]
+        },
+        "anvil_side_alt": {
+            "textures": ["textures/blocks/luth/anvil_side","textures/blocks/luth/anvil_side_alt270","textures/blocks/luth/anvil_side","textures/blocks/luth/anvil_side_alt90"]
+        },
         "crafting_table_bottom": {
             "textures": "textures/blocks/luth/workbench/crafting_table_bottom"
         },

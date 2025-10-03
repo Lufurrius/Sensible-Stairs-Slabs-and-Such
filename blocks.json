@@ -852,6 +852,39 @@
    //
    // Other
    //
+   "anvil" : {
+      "sound" : "anvil",
+      "textures" : {
+         "down" : "flattened_anvil_base",
+         "north": "anvil_side_alt",
+         "south": "anvil_side_alt",
+         "east": "anvil_side",
+         "west": "anvil_side",
+         "up" : "flattened_anvil_top"
+      }
+   },
+   "chipped_anvil" : {
+      "sound" : "anvil",
+      "textures" : {
+         "down" : "flattened_anvil_base",
+         "north": "anvil_side_alt",
+         "south": "anvil_side_alt",
+         "east": "anvil_side",
+         "west": "anvil_side",
+         "up" : "chipped_anvil_top"
+      }
+   },
+   "damaged_anvil" : {
+      "sound" : "anvil",
+      "textures" : {
+         "down" : "flattened_anvil_base",
+         "north": "anvil_side_alt",
+         "south": "anvil_side_alt",
+         "east": "anvil_side",
+         "west": "anvil_side",
+         "up" : "damaged_anvil_top"
+      }
+   },
    "jukebox": {
       "sound": "chiseled_bookshelf",
       "textures": {
