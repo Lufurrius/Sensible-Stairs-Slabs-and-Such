@@ -2625,6 +2625,12 @@
             "textures": "textures/blocks/luth/chiseled/chiseled_polished_blackstone_top"
         },
         //        
+        // Item Sprites
+        //
+        "sporeblossom_sprite": {
+            "textures": "textures/items/luth/block/spore_blossom"
+        },
+        //        
         // Other
         //
         "crafting_table_bottom": {
