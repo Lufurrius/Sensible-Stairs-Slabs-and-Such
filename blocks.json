@@ -852,6 +852,27 @@
    //
    // Other
    //
+   "sticky_piston" : {
+      "carried_textures" : {
+         "down" : "piston_bottom",
+         "side" : "piston_side_sticky",
+         "up" : "piston_top_sticky"
+      },
+      "sound" : "stone",
+      "textures" : {
+         "down" : "piston_bottom",
+         "side" : "piston_side_sticky",
+         "up" : "piston_top"
+      }
+   },
+   "iron_block" : {
+      "sound" : "iron",
+      "textures" :{
+         "side":  "iron_block",
+         "up":  "iron_block_top",
+         "down":  "iron_block_top"
+      }
+   },
    "anvil" : {
       "sound" : "anvil",
       "textures" : {
