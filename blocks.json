@@ -852,6 +852,21 @@
    //
    // Other
    //
+   "mushroom_stem" : {
+      "sound" : "nether_wood"
+   },
+   "red_mushroom_block" : {
+      "sound" : "fungus"
+   },
+   "red_mushroom" : {
+      "sound" : "fungus"
+   },
+   "brown_mushroom_block" : {
+      "sound" : "fungus"
+   },
+   "brown_mushroom" : {
+      "sound" : "fungus"
+   },
    "sticky_piston" : {
       "carried_textures" : {
          "down" : "piston_bottom",
