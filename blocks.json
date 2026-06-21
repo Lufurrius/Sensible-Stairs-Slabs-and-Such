@@ -951,7 +951,12 @@
       "sound": "chiseled_bookshelf"
    },
    "noteblock": {
-      "sound": "chiseled_bookshelf"
+      "sound": "chiseled_bookshelf",
+      "textures" : {
+         "down": "noteblock_top",
+         "side": "noteblock",
+         "up": "noteblock_top"
+      }
    },
    "furnace": {
       "textures": {
@@ -980,7 +985,7 @@
    },
    "mob_spawner": {
       "textures": {
-         "down": "mob_spawner_top",
+         "down": "mob_spawner_bottom",
          "side": "mob_spawner",
          "up": "mob_spawner_top"
       }
@@ -1036,5 +1041,42 @@
    },
    "tripwire_hook": {
       "sound": "chiseled_bookshelf"
+   },
+   "reeds" : {
+      "blockshape": "doublesided_rows"
+   },
+   "farmland" : {
+      "sound" : "gravel",
+      "textures" : {
+         "down" : "dirt",
+         "side" : "custom_farmland_side",
+         "up" : "custom_farmland_top"
+      }
+   },
+   "calibrated_sculk_sensor" : {
+      "carried_textures" : {
+         "down" : "sculk_sensor_tendril_inactive",
+         "east" : "sculk_sensor_tendril_active",
+         "north" : "sculk_sensor_tendril_active",
+         "south" : "calibrated_sculk_sensor_amethyst",
+         "up" : "sculk_sensor_tendril_inactive",
+         "west" : "sculk_sensor_tendril_active"
+      },
+      "sound" : "sculk_sensor",
+      "textures" : {
+         "down" : "calibrated_sculk_sensor_bottom",
+         "east" : "sculk_sensor_side",
+         "north" : "sculk_sensor_side",
+         "south" : "calibrated_sculk_sensor_input_side",
+         "up" : "calibrated_sculk_sensor_top",
+         "west" : "sculk_sensor_side"
+      }
+   },
+   "flower_pot" : {
+      "textures" : {
+         "down": "flower_pot_bottom",
+         "side": "flower_pot",
+         "up": "flower_pot"
+      }
    }
 }

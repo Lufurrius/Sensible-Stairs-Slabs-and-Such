@@ -2703,6 +2703,9 @@
         "mob_spawner_top": {
             "textures": "textures/blocks/luth/mob_spawner_top"
         },
+        "mob_spawner_bottom": {
+            "textures": "textures/blocks/luth/mob_spawner_bottom"
+        },
         "jukebox_bottom": {
             "textures": "textures/blocks/luth/jukebox_bottom"
         },
@@ -2717,6 +2720,30 @@
         },
         "trip_wire_base": {
             "textures": "textures/blocks/luth/tripwire"
+        },
+        "custom_farmland_top": {
+          "textures": [
+            "textures/blocks/luth/farmland/top_0",
+            "textures/blocks/luth/farmland/top_7"
+          ]
+        },
+        "custom_farmland_side": {
+          "textures": [
+            "textures/blocks/luth/farmland/side_0",
+            "textures/blocks/luth/farmland/side_7"
+          ]
+        },
+        "calibrated_sculk_sensor_bottom": {
+            "textures": ["textures/blocks/wool_colored_blue", "textures/blocks/wool_colored_red", "textures/blocks/wool_colored_green", "textures/blocks/wool_colored_yellow"]
+        },
+        "lectern_bottom": {
+            "textures": "textures/blocks/lectern_bottom"
+        },
+        "flower_pot_bottom": {
+            "textures": "textures/blocks/luth/flower_pot_bottom"
+        },
+        "noteblock_top": {
+            "textures": "textures/blocks/luth/noteblock_top"
         }
     }
 }
